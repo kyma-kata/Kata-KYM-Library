@@ -12,6 +12,6 @@ Sound files are for use with [Symbolic Sound Kyma](https://kyma.symbolicsound.co
 
 Kyma Kata is a user community open all.
 
-Files are shared openly and freely.  Sounds may not be repackaged and sold commercially (though can and should be used to produce creative work).
+Files are shared openly and freely.  Files and prototypes may not be repackaged and sold commercially (though can and should be used to produce creative work).
 
 
