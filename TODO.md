@@ -1,9 +1,6 @@
 # Todo
 
 Add to release repo:
-- KkSRDelay
-- KkScale
-- MultiTapDelay
 
 
 
