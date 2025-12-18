@@ -1,13 +1,8 @@
 # About the Imagination Machine
 
-Frequency shifter with feedback loop.  Feedback loop has a minimum delay time of 1 sample.
+Frequency shifter with feedback loop and filters.
 
-The orginal Imagination Machine contains a highpass / lowpass.
+Prompted by Charlie and built by the Kata community.  
 
-The updated Imagination Machine Expanded contains a complex feedback processing network.
-* SVF filter with mulitple filter topologies
-* Separate Allpass filter
-* Timbre / Drive 
-* Band mix and panning
-* Reflection cancellation with option to add back reflections.
+Updated implementation. Now much more DSP friendly.  Also included is an expanded version that can be extended with different processing options in the loop.  
 
