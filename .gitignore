@@ -1,3 +1,29 @@
 kkFrequencyShifter/.DS_Store
 kkImaginationMachine v10/.DS_Store
 kkPetesPowerPhasor/.DS_Store
+
+# Obsidian
+.obsidian
+.obsidian.vimrc
+
+# Editor swap files
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE Workspace files (VSCode, Cursor, PyCharm, etc.)
+*.code-workspace
+*.cursor-workspace
+.vscode/
+.cursor/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Personal sandbox (user-specific working files)
+personal/
+*.personal.*
