@@ -27,3 +27,4 @@ Thumbs.db
 # Personal sandbox (user-specific working files)
 personal/
 *.personal.*
+.DS_Store
